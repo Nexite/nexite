@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nikhil Garg and I'm a Software Developer/CS Student @ UW, from Seattle WA</h2>
+<h2 align="left">Hi 👋! My name is Nikhil Garg and I'm a Software Developer/CS Student @ UW from Seattle, WA</h2>
 
 ###
 
